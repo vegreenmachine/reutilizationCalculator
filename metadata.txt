@@ -1,0 +1,32 @@
+
+[general]
+name=Land Re-Utilization Calculator
+qgisMinimumVersion=2.0
+description=This plugin is designed to propose options for reutilization for abandoned or misused land. 
+version=0.1
+author=GreenVenice
+email=ve17.green@gmail.com
+
+about=Plugin designed to help re-vitilize some misused or abandoned land
+
+tracker=github.com
+repository=test
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=
+
+homepage=
+category=Plugins
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
